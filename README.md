@@ -28,7 +28,7 @@ app/
 │       └── activity_main.xml
 ```
 ---
-![](images/toast.png)
-![](images/increment.png)
+![](toast.png)
+![](increment.png)
 
 
